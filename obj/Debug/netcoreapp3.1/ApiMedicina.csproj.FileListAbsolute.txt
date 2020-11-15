@@ -1,0 +1,10 @@
+C:\Users\Alexander\source\repos\ApiMedicina\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Alexander\source\repos\ApiMedicina\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Alexander\source\repos\ApiMedicina\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Alexander\source\repos\ApiMedicina\bin\Debug\netcoreapp3.1\ApiMedicina.exe
+C:\Users\Alexander\source\repos\ApiMedicina\obj\Debug\netcoreapp3.1\ApiMedicina.csprojAssemblyReference.cache
+C:\Users\Alexander\source\repos\ApiMedicina\obj\Debug\netcoreapp3.1\ApiMedicina.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\ApiMedicina\obj\Debug\netcoreapp3.1\ApiMedicina.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\ApiMedicina\obj\Debug\netcoreapp3.1\ApiMedicina.RazorTargetAssemblyInfo.cache
+C:\Users\Alexander\source\repos\ApiMedicina\obj\Debug\netcoreapp3.1\staticwebassets\ApiMedicina.StaticWebAssets.Manifest.cache
+C:\Users\Alexander\source\repos\ApiMedicina\obj\Debug\netcoreapp3.1\staticwebassets\ApiMedicina.StaticWebAssets.xml
